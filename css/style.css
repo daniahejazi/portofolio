@@ -99,11 +99,24 @@ body {
     }
 	
 }
-@media (min-width:320px) and (max-width:991px){
+@media (min-width:320px) and (max-width:600px){
     
     .slider-sec .context1 .dev{
-        margin-top: 20%;
+        margin-top: 1%;
     }  
+    
+}
+@media (min-width:661px) and (max-width:900px){
+    
+    
+	.slider-sec .context1 .dev{
+        margin-top: 20%;
+    }
+    
+}
+@media (min-width:320px) and (max-width:991px){
+    
+      
     .slider-sec .area {
         height: 75vh !important;
     }
