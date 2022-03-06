@@ -102,7 +102,7 @@ body {
 @media (min-width:320px) and (max-width:991px){
     
     .slider-sec .context1 .dev{
-        margin-top: 37%;
+        margin-top: 20%;
     }  
     .slider-sec .area {
         height: 75vh !important;
